@@ -1,0 +1,1 @@
+Rozikov Farhodning "print_homework" uyga vazifasi uchun yaratilgan repositoriyasi. 
