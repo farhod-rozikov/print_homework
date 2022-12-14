@@ -1,3 +1,4 @@
-print("  )")
-print(" (")
-print("[_])")
+from os import sep
+
+
+print("  )", " (", "[_])", sep="\n" )
